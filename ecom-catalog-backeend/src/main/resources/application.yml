@@ -1,0 +1,29 @@
+# spring:
+#   integration:
+#     management:
+#       default-logging-enabled: false
+#   application:
+#     name: product-catalog
+#   profiles:
+#     active: dev
+
+#   datasource:
+#     url: jdbc:postgresql://localhost:5430/catalog_db
+#     username: postgres
+#     password: root
+#     driver-class-name: org.postgresql.Driver
+
+#   jpa:
+#     database-platform: org.hibernate.dialect.PostgreSQLDialect
+#     hibernate:
+#       ddl-auto: update
+#     show-sql: true
+
+#   server:
+#     port: 8081
+
+#   logging:
+#     level:
+#       org.springframework: INFO
+#       com.ecom.demo: DEBUG
+
