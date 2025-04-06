@@ -85,7 +85,7 @@ The Product Management Application is designed to streamline product management 
    npm start
    ```
 
-The frontend will be available at [http://localhost:3000](http://localhost:3000).
+The frontend will be available at [http://localhost:5173](http://localhost:5173).
 
 ---
 
@@ -232,4 +232,4 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## Contact
 
-For questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
+For questions or support, please contact [halkanomalise@gmail.com](mailto:halkanomalise@gmail.com).
